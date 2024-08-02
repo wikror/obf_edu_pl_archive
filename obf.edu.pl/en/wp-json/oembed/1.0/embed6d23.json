@@ -1,0 +1,6 @@
+<br />
+<b>Warning</b>:  SimpleXMLElement::asXML(): xmlEscapeEntities : char out of range in <b>/wp-includes/embed.php</b> on line <b>800</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::asXML(): xmlEscapeEntities : char out of range in <b>/wp-includes/embed.php</b> on line <b>800</b><br />
+<?xml version="1.0"?>
+<oembed><version>1.0</version><provider_name>Centre for Philosophical Research</provider_name><provider_url>http://obf.edu.pl/en</provider_url><author_name>admin</author_name><author_url>http://obf.edu.pl/en/author/admin/</author_url><title></title><type>rich</type><width>600</width><height>338</height><html></html></oembed>

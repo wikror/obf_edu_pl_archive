@@ -1,0 +1,6 @@
+<br />
+<b>Warning</b>:  SimpleXMLElement::asXML(): xmlEscapeEntities : char out of range in <b>/wp-includes/embed.php</b> on line <b>800</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::asXML(): xmlEscapeEntities : char out of range in <b>/wp-includes/embed.php</b> on line <b>800</b><br />
+<?xml version="1.0"?>
+<oembed><version>1.0</version><provider_name>O&#x15B;rodek Bada&#x144; Filozoficznych</provider_name><provider_url>http://obf.edu.pl</provider_url><author_name>admin</author_name><author_url>http://obf.edu.pl/author/admin/</author_url><title></title><type>rich</type><width>600</width><height>338</height><html></html><thumbnail_url>https://i0.wp.com/obf.edu.pl/wp-content/uploads/2008/03/festiwal_nauki.png?fit=70%2C93</thumbnail_url><thumbnail_width>70</thumbnail_width><thumbnail_height>93</thumbnail_height></oembed>
